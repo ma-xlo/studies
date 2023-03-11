@@ -1,0 +1,18 @@
+int a = 1, b = 2, c = 3, n1 = 1, n2 = 0;
+
+float x = 2, y =10, z = -1;
+
+double d = 4;
+
+
+I. Determine o tipo de dado retornado pela expressão.
+II. O valor da expressão. 
+
+a) valor: 2 		tipo: inteiro
+b) valor: 1		tipo: inteiro
+c) valor: 5		tipo: inteiro
+d) valor: 13.f	        tipo: ponto flutuante
+e) valor: 16.lf		tipo: dupla precisao
+f) valor: 1		tipo: inteiro
+g) valor: 4.f 		tipo: ponto flutuante
+h) valor: --		tipo: ponto flutuante

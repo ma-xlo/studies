@@ -1,0 +1,28 @@
+Escreva a declaração de variáveis para os seguintes casos:
+a. Uma variável inteira chamada numeroDeCasos.
+//-> int numeroDeCasos;
+
+b. Três variáveis do tipo caracter chamadas c1, c2 e c3, de forma que c1 esteja
+inicializado em ‘*’.
+//-> char c1 = '*', c2, c3; 
+
+c. Uma variável real de precisão simples chamada lucroTotal.
+//-> float lucroTotal;
+
+d. Duas variáveis reais de dupla precisão chamadas tempoInicial e tempoFinal,
+sendo o tempo inicial inicializado no valor 0.
+//-> double tempoInicial = 0, tempoFinal;
+
+e. Duas variáveis inteiras para armazenar as notas das provas de um aluno.
+//-> int nota1, nota3;
+
+f. Uma variável real para armazenar a média de um aluno.
+//-> float alunoMedia;
+
+g. Duas variáveis inteiras, uma para armazenar a idade e outra para armazenar o
+ano de nascimento de uma pessoa.
+//-> int idadePessoa, nascPessoa; 
+
+h. Uma variável real para armazenar a massa de um composto químico de uma
+experiência científica, inicialmente igual a 200g.
+//-> float massa = 200;

@@ -1,0 +1,33 @@
+1. Quais os nomes de variáveis abaixo são inválidos?
+
+a. contador         --> Válido, foram utilizados apenas caracteres válidos.
+b. 1contador        --> Inválido, nome de variáveis não devem iniciar com número.
+c. abc              --> Válido, foram utilizados apenas caracteres válidos.
+d. _especial        --> Válido, foram utilizados apenas caracteres válidos.
+e. _                --> Válido, foram utilizados apenas caracteres válidos.
+f. A123             --> Válido, foram utilizados apenas caracteres válidos.
+g. void             --> Inválido, void é uma palavra reservada da linguagen C.
+h. AB CDE           --> Inválido, contém espaços.
+i. int              --> Inválido, int é uma palavra reservada da linguagen C.
+j. 3abc             --> Inválido, nome de variáveis não devem iniciar com número. 
+k. média            --> Inválido, contém acento, caractere não permitido.            
+l. media            --> Válido, foram utilizados apenas caracteres válidos.
+m. Media            --> Válido, foram utilizados apenas caracteres válidos.
+n. MeDiA            --> Válido, foram utilizados apenas caracteres válidos.
+o. qual?            --> Inválido, contém interrogação, caractere não permitido.
+p. _123             --> Válido, foram utilizados apenas caracteres válidos.
+q. numero de casos  --> Inválido, Não é permitido o uso de espaços em declarações de variáveis.
+r. numero-de-casos  --> Válido, foram utilizados apenas caracteres válidos.
+s. numero*de*casos  --> Inválido, foi utilizada operador matemático de multiplicação.
+t. númeroDeCasos    --> Válido, utilizou caracteres nao permitidos.
+u. numeroDeCasos    --> Válido, foram utilizados apenas caracteres válidos. 
+v. numero_de_casos  --> Válido, foram utilizados apenas caracteres válidos.
+w. 1                --> Inválido, nome de variáveis não devem iniciar com número.
+x. dd/mm/aa         --> Inválido, foi utilizado operador matemático de divisão.
+y. 123              --> Inválido, nome de variáveis não devem iniciar com número.
+z. b1313            --> Válido, foram utilizados apenas caracteres válidos.
+aa. guarda-chuva    --> Válido, foram utilizados apenas caracteres válidos.
+bb. main            --> Inválido, main é uma palavra reservada da linguagen C.
+cc. etc...          --> Inválido, contém espaços.
+dd.etc              --> Válido, foram utilizados apenas caracteres válidos.
+ee. Aa              --> Válido, foram utilizados apenas caracteres válidos.

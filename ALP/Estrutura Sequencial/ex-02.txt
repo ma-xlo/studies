@@ -1,0 +1,51 @@
+2. Faça em seu caderno. Nos fragmentos abaixo, determine os valores
+das variáveis após a execução de cada linha de código.
+
+a. 
+int i = 5, j;                  //-> i = 0
+j = i++;                       //-> j = 5, i = 6
+
+b.
+int i = 5, j;                  //-> i = 5
+j = ++i;                       //-> j = 6, i = 6 
+
+c.
+int i=0, j=0, k;                
+k = ++i * (j++ + 1);           //-> k = 1 
+
+d.
+int i=1, j=10, k;
+i++;
+++j;
+k =( i++*10) % j++;            //-> 
+
+e.
+int i=1, j=2, k;
+k = ++i * ++j;                 //-> 
+
+f.
+int f1 = 4, f2 = 2, resto;
+resto = ++f1 % f2++;           //-> 
+
+g.
+int m = 25, n = 6, p, q;        
+p = m-- % ++n;
+q = --p * (n/m);               //-> 
+
+h.
+int d1=10, d2 = 11, resto;
+resto = (d1++ * --d2)%3;       //->
+
+i.
+int num1 = 10, num2,num3, num4, num5;
+num1--;                        //-> 
+num2 = --num1*10;              //-> 
+num3 = num1++%10;              //-> 
+num4 = ++num1*10;              //-> 
+num5 = num1--/10               //-> 
+
+j.
+int i = 0,j;
+j = i++;                       //-> 
+j = ++i - 5;                   //->
+j = i--*10;                    //-> 
